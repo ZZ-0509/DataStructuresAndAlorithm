@@ -10,6 +10,9 @@ namespace Halo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Halo");
+            Console.WriteLine("你好!!!!!!");
+            Console.ReadLine();
         }
     }
 }
