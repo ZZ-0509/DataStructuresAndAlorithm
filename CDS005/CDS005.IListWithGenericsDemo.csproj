@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BusinessModels\PersonsInProvince.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="PersonList.cs" />
     <Compile Include="PersonListRepository.cs" />
     <Compile Include="Program.cs" />
