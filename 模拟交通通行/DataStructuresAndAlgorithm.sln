@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnderstandingDataStructure", "UnderstandingDataStructure", "{3F930383-F9AD-4593-9439-E46155122546}"
+	ProjectSection(SolutionItems) = preProject
+		DataStructuresAlgorithm\基础数据结构生活例子.md = DataStructuresAlgorithm\基础数据结构生活例子.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtificialIntelligence", "ArtificialIntelligence\ArtificialIntelligence.csproj", "{AE4FE8EB-7D9D-47FB-A915-119CE5B79236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayingCard", "PlayingCard\PlayingCard.csproj", "{D32CCBB3-38B1-49A3-A627-35C44C7EE277}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheStatistical", "TheStatistical\TheStatistical.csproj", "{1E46D8A0-2051-449D-B793-C6E4523E3059}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AboutOneHundredChickens", "AboutOneHundredChickens\AboutOneHundredChickens.csproj", "{E71C8596-F001-4B72-93B5-576978F5D2EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourCrossway", "FourCrossway\FourCrossway.csproj", "{F6E68506-ACAB-4D94-99D5-79B49BC44B31}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE4FE8EB-7D9D-47FB-A915-119CE5B79236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE4FE8EB-7D9D-47FB-A915-119CE5B79236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE4FE8EB-7D9D-47FB-A915-119CE5B79236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE4FE8EB-7D9D-47FB-A915-119CE5B79236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D32CCBB3-38B1-49A3-A627-35C44C7EE277}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D32CCBB3-38B1-49A3-A627-35C44C7EE277}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D32CCBB3-38B1-49A3-A627-35C44C7EE277}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D32CCBB3-38B1-49A3-A627-35C44C7EE277}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E46D8A0-2051-449D-B793-C6E4523E3059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E46D8A0-2051-449D-B793-C6E4523E3059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E46D8A0-2051-449D-B793-C6E4523E3059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E46D8A0-2051-449D-B793-C6E4523E3059}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E71C8596-F001-4B72-93B5-576978F5D2EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E71C8596-F001-4B72-93B5-576978F5D2EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E71C8596-F001-4B72-93B5-576978F5D2EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E71C8596-F001-4B72-93B5-576978F5D2EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6E68506-ACAB-4D94-99D5-79B49BC44B31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E68506-ACAB-4D94-99D5-79B49BC44B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E68506-ACAB-4D94-99D5-79B49BC44B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E68506-ACAB-4D94-99D5-79B49BC44B31}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
